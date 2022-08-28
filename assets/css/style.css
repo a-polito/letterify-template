@@ -862,3 +862,6 @@ blockquote {
   width: 200px;
   object-fit: cover;
 }
+.img-fluid.logo {
+  max-width: 180px;
+}

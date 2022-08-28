@@ -2,7 +2,7 @@
 baseurl = "https://demo.gethugothemes.com/parsa/examplesite/"
 languageCode = "en-us"
 title = "Parsa Hugo | Personal Blog Template"
-theme = "parsa-hugo"
+theme = "letterify-template"
 summaryLength = "10"
 paginate = 6
 # google analytics
