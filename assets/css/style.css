@@ -868,11 +868,13 @@ blockquote {
 }
 
 .single-layout-image {
-  max-width: 60%;
+  max-width: 100%;
+  max-height: 250px;
+  object-fit: cover;
 }
 
 @media screen and (max-width: 991px) {
   .single-layout-image {
-    max-width: 100%;
+    max-height: 200px;
   }
 }
